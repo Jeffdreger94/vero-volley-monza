@@ -125,6 +125,10 @@ h3 {
 	font-size: 20px;
 }
 
+h4 {
+	font-weight: bold;
+}
+
 p {
 	margin-bottom: 18px;
 	margin-top: 8px;
@@ -215,6 +219,7 @@ footer {
 	padding: 40px 0;
 	margin-top: 24px;
 	background-color: #a9a9a9;
+	font-weight: bold;
 }
 
 footer ol {
@@ -225,12 +230,6 @@ footer ol {
 	align-items: center;
 	justify-content: space-between;
 	padding: 0;
-}
-
-footer ol li {
-	margin: 10px;
-	display: block; 
-	/*Makes the li selectable up the to the edge of the margins*/
 }
 
 footer a {
