@@ -134,6 +134,10 @@ p {
 	margin-top: 8px;
 }
 
+.first {
+	margin-top: 12px;
+}
+
 p a {
 	color: #2a8ea7;
 	text-decoration: none;
