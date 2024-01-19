@@ -1,9 +1,10 @@
 
 body {
-	font-family: 'Murecho', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #666;
 	font-size: 18px;
 	line-height: 1.5;
+	background-color: #f2e3e3;
 	}
 
 /* --- Responsive Sidebar navigation adapted from W3.CSS Templates --- */
@@ -103,13 +104,13 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	font-size: 2.083vw;
 }
 
-.shine {  /*  Call to action color  */
-	color: #557763;
+.header-content {
+	text-transform: uppercase;
 }
 
 h1, h2, h3 {
-	font-family: 'Architects Daughter', cursive;
-	color: #427ac1;
+	font-family: 'Montserrat', sans-serif;
+	color: #17224c;
 }
 
 h2, h3 {
@@ -126,6 +127,15 @@ h3 {
 
 p {
 	margin-bottom: 18px;
+	margin-top: 8px;
+}
+
+p a {
+	color: #2a8ea7;
+	text-decoration: none;
+}
+p a:hover {
+	text-decoration: underline;
 }
 
 /* layout */
@@ -192,8 +202,8 @@ main {
 
 article img {
 	border: none;
-	-webkit-box-shadow: 3px 3px 7px #777;
-	-moz-box-shadow: 3px 3px 7px #777;
+	box-shadow: 3px 3px 7px #777;
+	box-shadow: 3px 3px 7px #777;
 }
 
 .image-container {
@@ -223,13 +233,13 @@ footer ol li {
 	/*Makes the li selectable up the to the edge of the margins*/
 }
 
-footer a:link, a:visited {
-	color:#fff;
+footer a {
+	color: #fff;
 	text-decoration: none;
 }
 
-footer a:hover, a:active {
-	color: #f8f2f2;
+footer a:hover {
+	color: aqua;
 	text-decoration: underline;
 }
 
