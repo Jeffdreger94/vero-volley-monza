@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vero-volley-monza.com/sitemap.xml
+Sitemap: https://vero-volley-monza.netlify.app/sitemap.xml

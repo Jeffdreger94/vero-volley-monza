@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://vero-volley-monza.com/</loc>
-  <lastmod>2024-01-19T18:07:15+00:00</lastmod>
+  <loc>https://vero-volley-monza.netlify.app/</loc>
+  <lastmod>2024-01-24T17:51:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://vero-volley-monza.netlify.app/license.txt</loc>
+  <lastmod>2024-01-24T17:51:53+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
