@@ -212,6 +212,9 @@ main {
  	margin-right: auto;
   	width: 80%;
 }
+.social-media {
+	text-align: center;
+}
 
 article img {
 	border: none;
@@ -344,10 +347,13 @@ h3 {
 	}
 	/** show large ad **/
 	img.leaderboard-ad {
-		position: static;
+		position: relative;
+		z-index: 10;
 		visibility: visible;
 		text-align: center;
 		margin: auto;
+		top: 0;
+		left: 0;
 	}
 
 
