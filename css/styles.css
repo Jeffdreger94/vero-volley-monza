@@ -332,7 +332,8 @@ h3 {
 	}
 
 .inner-container {
-	width: 48%;
+	width: 30%;
+	justify-content: space-between;
 	}
 
 	.w3-bar-item {
